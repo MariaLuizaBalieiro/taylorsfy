@@ -164,15 +164,16 @@ body {
   cursor: pointer;
   transition: all ease 0.4s;
 }
-.spotify-playlists .list .item:hover {
+
+ .spotify-playlists .list .item:hover {
   background-color: #252525;
 }
+
 .spotify-playlists .list .item img {
   width: 100%;
   border-radius: 6px;
   margin-bottom: 10px;
 }
-
 
 .spotify-playlists .list .item .play .fa {
   position: absolute;
@@ -184,7 +185,3 @@ body {
   opacity: 0;
   transition: all ease 0.4s;
 }
-
-
-
-
